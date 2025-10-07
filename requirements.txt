@@ -1,4 +1,6 @@
 pyrogram==2.0.106
 TgCrypto
+yt-dlp
 flask
+ffmpeg-python
 requests
